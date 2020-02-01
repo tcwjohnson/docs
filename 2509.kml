@@ -3,14 +3,12 @@
     <Document>
         <Style id="ourPolygonStyle">
             <LineStyle>
-                <color>70ff0000</color>
+                <!--<color>70ff0000</color>-->
                 <width>2</width>
             </LineStyle>
-            <!--
             <PolyStyle>
                 <color>3dff5500</color>
             </PolyStyle>
-          -->
         </Style>
         <Placemark>
             <styleUrl>#ourPolygonStyle</styleUrl>
